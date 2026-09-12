@@ -14,7 +14,3 @@ This repository contains some small Python programs and exercises I wrote while 
 - Python 3
 - No external libraries are required.
 
-## Run
-
-```bash
-python3 goldbach_partition.py
